@@ -1,5 +1,6 @@
 # Golang Module for 2Captcha API
-The easiest way to quickly integrate [2Captcha] into your code to automate solving of any type of captcha.
+The easiest way to quickly integrate [rucaptcha](https://rucaptcha.com) into your code to automate solving of any type of captcha.  
+This module is a fork of the module [2captcha-go](https://github.com/2captcha/2captcha-go).
 
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -27,7 +28,7 @@ The easiest way to quickly integrate [2Captcha] into your code to automate solvi
 To install the api client, use this:
 
 ```bash
-go get -u github.com/2captcha/2captcha-go
+go get -u github.com/demoriz/rucaptcha-go
 ```
 
 ## Configuration
